@@ -1,0 +1,21 @@
+{
+  "name": "custom-oracle-reporter",
+  "version": "1.0.0",
+  "description": "Open oracle reporter which fetches prices from coingecko",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compound",
+    "oracle",
+    "price-feed"
+  ],
+  "author": "Ashwin Yardi",
+  "license": "ISC",
+  "dependencies": {
+    "coingecko-api": "^1.0.10",
+    "express": "^4.17.1",
+    "open-oracle-reporter": "^1.0.2"
+  }
+}
