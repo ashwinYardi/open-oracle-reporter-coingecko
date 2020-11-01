@@ -1,0 +1,17 @@
+{
+  "coins": [
+    {
+      "id": "ethereum",
+      "symbol": "eth"
+    },
+    {
+      "id": "compound-governance-token",
+      "symbol": "comp"
+    },
+    {
+      "id": "dai",
+      "symbol": "dai"
+    }
+  ],
+  "vsCurrency": "usd"
+}

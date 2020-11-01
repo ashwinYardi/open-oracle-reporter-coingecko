@@ -4,7 +4,8 @@
   "description": "Open oracle reporter which fetches prices from coingecko",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [
     "compound",
@@ -15,6 +16,8 @@
   "license": "ISC",
   "dependencies": {
     "coingecko-api": "^1.0.10",
+    "config": "^3.3.2",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "open-oracle-reporter": "^1.0.2"
   }
