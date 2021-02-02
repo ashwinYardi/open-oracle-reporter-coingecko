@@ -11,6 +11,30 @@
     {
       "id": "dai",
       "symbol": "dai"
+    },
+    {
+      "id": "basic-attention-token",
+      "symbol": "bat"
+    },
+    {
+      "id": "uniswap",
+      "symbol": "uni"
+    },
+    {
+      "id": "usd-coin",
+      "symbol": "usdc"
+    },
+    {
+      "id": "tether",
+      "symbol": "usdt"
+    },
+    {
+      "id": "wrapped-bitcoin",
+      "symbol": "wbtc"
+    },
+    {
+      "id": "0x",
+      "symbol": "zrx"
     }
   ],
   "vsCurrency": "eth"
